@@ -1,0 +1,12 @@
+.lists {
+  display: flex;
+  justify-content: space-between;
+}
+
+.checkbox {
+  border-radius: 50%;
+}
+
+.tasks {
+  display: flex;
+}
